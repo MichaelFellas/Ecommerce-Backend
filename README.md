@@ -54,7 +54,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Installation
 
-To install this app you are required to have MySQL set up and configured. Open the server.js file in a node terminal and use the command `npm install` to install the dependancies. Copy and rename the .env.EXAMPLE file as .env and then add your MYSQL details to the .env file (user is default set to root and host is default set to local host.) then open another terminal on the schema.sql run the command `mysql -u root -p` to start the mysql, then run source schema.sql to initialise the databse. If you wish to use the seed values then run `npm run seed` in the node terminal. Run `npm start` to begin the app. 
+To install this app you are required to have MySQL set up and configured. Open the server.js file in a node terminal and use the command `npm install` to install the dependancies. Copy and rename the .env.EXAMPLE file as .env and then add your MYSQL details to the .env file (user is default set to root.) then open another terminal on the schema.sql run the command `mysql -u root -p` to start the mysql, then run source schema.sql to initialise the databse. If you wish to use the seed values then run `npm run seed` in the node terminal. Run `npm start` to begin the app. 
 
 ## Usage
 
@@ -83,7 +83,7 @@ If you would like to contribute to the project please message my github.
 ![App-Screenshot](./Assets/get1Request.png)
 
 ## Video Demo
-[Video-Demo]()
+[Video-Demo](https://drive.google.com/file/d/1s6smFDCr0YenQPAOazEQ2JueQNpW8TVu/view?usp=sharing)
 
 ## Questions
 
